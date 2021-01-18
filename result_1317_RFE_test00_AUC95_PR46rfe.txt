@@ -1,0 +1,14 @@
+,0,mean,std,fNum
+0,L/R,,,0
+1,age,,,1
+2,cT,,,2
+3,aAverage,,,3
+4,aSD,,,4
+5,cAverage,,,5
+6,cSD,,,6
+7,hu_diff,,,7
+8,homogeneous,,,8
+9,hetero,,,9
+10,rim,,,10
+11,clustered,,,11
+12,non-mass,,,12

@@ -1,0 +1,52 @@
+
+['sex', 'age', 'LR', 'cT', 'cN', 'cAverage', 'cSD', 'aAverage', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'clustered', 'non-mass', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.714286 using {'batch_size': 20, 'learning_rate': 0.05, 'neurons1': 7, 'neurons2': 9}
+0.7261904761904762
+['sex', 'age', 'LR', 'cT', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'clustered', 'non-mass', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.734694 using {'batch_size': 20, 'learning_rate': 0.05, 'neurons1': 11, 'neurons2': 9}
+0.7023809523809523
+['sex', 'age', 'LR', 'cT', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'non-mass', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.709184 using {'batch_size': 40, 'learning_rate': 0.05, 'neurons1': 3, 'neurons2': 7}
+0.7023809523809523
+['age', 'LR', 'cT', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'non-mass', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.719388 using {'batch_size': 10, 'learning_rate': 0.05, 'neurons1': 9, 'neurons2': 7}
+0.7023809523809523
+['age', 'LR', 'cT', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.709184 using {'batch_size': 10, 'learning_rate': 0.01, 'neurons1': 5, 'neurons2': 11}
+0.7023809523809523
+['age', 'LR', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.704082 using {'batch_size': 10, 'learning_rate': 0.005, 'neurons1': 3, 'neurons2': 9}
+0.6666666666666666
+['age', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'hetero', 'rim', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.724490 using {'batch_size': 10, 'learning_rate': 0.05, 'neurons1': 11, 'neurons2': 7}
+0.7023809523809523
+['age', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'rim', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.719388 using {'batch_size': 30, 'learning_rate': 0.05, 'neurons1': 5, 'neurons2': 9}
+0.7023809523809523
+['age', 'cN', 'cAverage', 'cSD', 'aSD', 'lMax', 'homogeneous', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.709184 using {'batch_size': 10, 'learning_rate': 0.005, 'neurons1': 9, 'neurons2': 11}
+0.2976190476190476
+['age', 'cN', 'cAverage', 'aSD', 'lMax', 'homogeneous', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.729592 using {'batch_size': 30, 'learning_rate': 0.05, 'neurons1': 3, 'neurons2': 9}
+0.7023809523809523
+['age', 'cN', 'cAverage', 'lMax', 'homogeneous', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.719388 using {'batch_size': 10, 'learning_rate': 0.05, 'neurons1': 5, 'neurons2': 7}
+0.6666666666666666
+['age', 'cN', 'lMax', 'homogeneous', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.709184 using {'batch_size': 30, 'learning_rate': 0.05, 'neurons1': 5, 'neurons2': 7}
+0.7023809523809523
+['cN', 'lMax', 'homogeneous', 'AorCa', 'LymAo', 'LymCa']
+Best: 0.719388 using {'batch_size': 20, 'learning_rate': 0.01, 'neurons1': 9, 'neurons2': 3}
+0.7023809523809523
+['cN', 'lMax', 'homogeneous', 'AorCa', 'LymAo']
+Best: 0.714286 using {'batch_size': 10, 'learning_rate': 0.01, 'neurons1': 7, 'neurons2': 5}
+0.7023809523809523
+['cN', 'lMax', 'homogeneous', 'AorCa']
+Best: 0.714286 using {'batch_size': 10, 'learning_rate': 0.01, 'neurons1': 11, 'neurons2': 5}
+0.7023809523809523
+['cN', 'lMax', 'homogeneous']
+Best: 0.714286 using {'batch_size': 20, 'learning_rate': 0.05, 'neurons1': 7, 'neurons2': 11}
+0.7023809523809523
+['lMax', 'homogeneous']
+Best: 0.709184 using {'batch_size': 30, 'learning_rate': 0.05, 'neurons1': 5, 'neurons2': 9}
+0.7023809523809523
